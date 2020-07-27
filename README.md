@@ -1,0 +1,26 @@
+# 嘿！:wave:
+
+<p align="center"> 
+  访客数量<br>
+  <img src="https://profile-counter.glitch.me/XuYang233/count.svg" />
+</p>
+
+## 关于我
+
+我是Xu_Yang，一名正在学编程的普通人。
+就这些了。。。
+
+<!--
+**XuYang233/XuYang233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
