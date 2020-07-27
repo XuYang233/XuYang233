@@ -12,7 +12,7 @@
 平常喜欢听一些音乐。  
 喜欢玩MineCraft,Terraria,etc。  
 也可以来找我玩哦!  
-[网易云音乐](https://music.163.com/#/user/home?id=565899953)  [MCBBS](https://www.mcbbs.net/home.php?mod=space&uid=2147049&do=index&view=admin）  [steam](https://steamcommunity.com/id/xuyang666/)
+[网易云音乐](https://music.163.com/#/user/home?id=565899953)  [MCBBS](https://www.mcbbs.net/home.php?mod=space&uid=2147049&do=index&view=admin)  [steam](https://steamcommunity.com/id/xuyang666/)
 <!--
 **XuYang233/XuYang233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
